@@ -1,0 +1,32 @@
+{
+  "name": "htmlentities",
+  "description": "Installs catalogs of XHTML entities in /etc/xml for use in parsing entities",
+  "long_description": "",
+  "maintainer": "Sanders Kleinfeld",
+  "maintainer_email": "sanders@oreilly.com",
+  "license": "Apache 2.0",
+  "platforms": {
+    "ubuntu": ">= 0.0.0",
+    "debian": ">= 0.0.0"
+  },
+  "dependencies": {
+  },
+  "recommendations": {
+  },
+  "suggestions": {
+  },
+  "conflicting": {
+  },
+  "providing": {
+  },
+  "replacing": {
+  },
+  "attributes": {
+  },
+  "groupings": {
+  },
+  "recipes": {
+    "default": "Installs XHTML entity catalogs"
+  },
+  "version": "0.0.1"
+}
